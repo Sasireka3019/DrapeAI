@@ -1,0 +1,5 @@
+{
+  "occasions": ["casual", "work", "festive", "wedding", "party", "formal"],
+  "styles": ["classic", "ethnic", "contemporary", "bohemian", "minimalist", "bold"],
+  "outfitTypes": ["Gown", "Dress", "Midi", "CoordSet", "Mini"]
+}
